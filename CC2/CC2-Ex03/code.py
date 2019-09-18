@@ -7,10 +7,3 @@ temperature = randint(50, 100)
 
 
 # YOUR CODE GOES HERE ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-# Answer VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
-
-if temperature >= 80:
-    print('Time to swim!')
-else:
-    print('It is too cold to swim')
